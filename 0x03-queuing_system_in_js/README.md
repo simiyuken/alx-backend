@@ -1,4 +1,4 @@
-# 0x14. Queuing System in JS
+# Queuing System in JS
 
 ## Resources
 ### Read or watch:
